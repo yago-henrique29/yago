@@ -22,7 +22,7 @@ Após realizar o cadastro prévio das informações, é necessário clicar no bo
 Pronto! O sistema cadastrou o jogo desejado:
 ![image](https://user-images.githubusercontent.com/108819271/182639326-d5bba6c5-0e0a-4708-80de-736e84bd077c.png)
 
-## Autore
+## Autor
 
  [<img src="https://lh3.googleusercontent.com/TmIee3MpXi9aR0_aFXOWv5JUVmGS6zr0Nw5b7Ygf9mqjlkwDFUIwoomq1-h6gmLo2EfoohpKn0KkpAaHSYbQEngmJ3GTn9lFXvFRAl4vhciUHhRas720ZzoDdLiHMrGqfv7ueWFCIhDSv73cWVNtxTa4UPNZPYI3pPhgVDzJr5GZsfaUM2Dvr3w709_6CmcXira8z_mpdR76Mi-8UzXujuljlB_Ng4cIXntODL0SgeFd4pRI9uc4BG2K7ZOfh9Y2VvRcR_Ku663e-Y58C_g10wYO3AG9tkuXVyI3aZug6QDSNu8kEpcUUaCTX6vwUB5rsvs_iFmL4COm3i2tIVxGCyzHKZqGOePZHWjCK-W0IevsZe3KWDrs_biN-RA0fnlPyI4E3H62_pxxS1a_qZhQf0uqj4-oag2VKIKFTiI023lZMKi1vZszKZFdsHCDb065LeIgeY3V9TBfCjWLwPxx-aGuCSObnZLk9b1qDrAjgKpv5siDdqYOWk3ew8JItc03FJq1yWfSb3fI842eLqeXqRil-6QYfyDim0-J5D2wkCdWktC_Hsqq5LQC_MixtSzrVAggMuKB8Dn2Gv4PFCW3owNR_HlPjI7T8-cZr6p0aYnsYAp3OkNKopKc1R-VFAvrqtgmvkMJLpQPOubklm-1Aa_YjA4h5UtMQF4wGYzMz_PpdmhZhGp0V-BFQMn2lgcJ-bv204i9WFOtExyrZVQmtNGVoJk5Rydo1Y2ihi0DG5ieijcXO4peRNT0d_s=w968-h969-no?authuser=0" width=115><br><sub>Yago henrique</sub>](https://github.com/yago-henrique29)
 
